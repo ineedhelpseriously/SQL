@@ -20,11 +20,11 @@ A ✅ will appear next to each section once completed.
 - [x] 5_NULL_and_IS_NULL
 
 ## 📂 3. Filtering_and_Sorting
-- [ ] 1_ORDER_BY_(ASC_DESC)
-- [ ] 2_DISTINCT
-- [ ] 3_GROUP_BY
-- [ ] 4_HAVING
-- [ ] 5_Boolean_and_Comparison_Operators
+- [x] 1_ORDER_BY_(ASC_DESC)
+- [x] 2_DISTINCT
+- [x] 3_GROUP_BY
+- [x] 4_HAVING
+- [x] 5_Boolean_and_Comparison_Operators
 
 ## 📂 4. Joins_and_Subqueries
 - [ ] 1_INNER_JOIN
