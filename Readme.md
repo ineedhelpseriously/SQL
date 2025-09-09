@@ -27,11 +27,11 @@ A ✅ will appear next to each section once completed.
 - [x] 5_Boolean_and_Comparison_Operators
 
 ## 📂 4. Joins_and_Subqueries
-- [ ] 1_INNER_JOIN
-- [ ] 2_LEFT_RIGHT_FULL_JOIN
-- [ ] 3_CROSS_JOIN_and_SELF_JOIN
-- [ ] 4_Subqueries_(Scalar_Relational)
-- [ ] 5_Join_Performance_Basics
+- [x] 1_INNER_JOIN
+- [x] 2_LEFT_RIGHT_FULL_JOIN
+- [x] 3_CROSS_JOIN_and_SELF_JOIN
+- [x] 4_Subqueries_(Scalar_Relational)
+- [x] 5_Join_Performance_Basics
 
 ## 📂 5. Functions_and_Aggregates
 - [ ] 1_Aggregates_(COUNT_SUM_AVG_MIN_MAX)
